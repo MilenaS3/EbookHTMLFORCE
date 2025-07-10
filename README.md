@@ -64,8 +64,8 @@ Aqui estão armazenadas todas as imagens geradas para o projeto, incluindo:
 
 ### 📦 Arquivo ZIP da Fonte
 
-A fonte usada na diagramação do eBook está disponível em:  
-👉 [`fonte-utilizada.zip`](./assets/star_jedi.zip)
+A fonte usada na capa do eBook está disponível em:  
+👉 [`star_jedi.zip`](./assets/star_jedi.zip)
 
 ---
 
