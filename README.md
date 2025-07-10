@@ -51,19 +51,36 @@ Criado por **Milena**, estudante de Engenharia de Software na Unigoiás, entusia
 
 ---
 
-## 🤖 Prompts Utilizados com IA
+## 📂 Arquivos extras e ativos do projeto
 
-Durante a criação deste projeto, foram utilizados diversos prompts com ferramentas de IA para gerar conteúdo textual e visual.
+Além do PDF do eBook, este repositório também contém os seguintes recursos:
 
-> Todos os prompts estão disponíveis na pasta [`/prompts`](./prompts)
+### 📁 Pasta `assets/`
 
-- 🧠 ChatGPT – para escrita de capítulos e explicações
-- 🎨 Microsoft Bing Image Creator – para geração de imagens e ideias visuais
-- 💡 Exemplos de prompts incluem:
-  - Criação de títulos para capítulos
-  - Exemplos de código HTML explicados
-  - Sugestões visuais para a capa
-  - Frases introdutórias com linguagem acessível
+Aqui estão armazenadas todas as imagens geradas para o projeto, incluindo:
+
+- Ilustrações e diagramas criados com **Microsoft Bing Image Creator**  
+- Arquivos da fonte tipográfica utilizada para o design do eBook
+
+### 📦 Arquivo ZIP da Fonte
+
+A fonte usada na diagramação do eBook está disponível em:  
+👉 [`fonte-utilizada.zip`](./assets/fonte-utilizada.zip)
+
+---
+
+## 🤖 Histórico de prompts com IA
+
+Todo o conteúdo deste eBook foi desenvolvido com apoio do ChatGPT, utilizando Inteligência Artificial para gerar textos explicativos, exemplos de código e estrutura do projeto.
+
+📎 Acesse a conversa completa com os prompts e respostas:  
+👉 [Ver conversa no ChatGPT](https://chatgpt.com/share/686fb6fa-1e38-8006-929b-49e15cc17279)
+
+> Essa conversa inclui:  
+> - Sugestões de títulos e subtítulos para os capítulos  
+> - Explicações e exemplos HTML  
+> - Estrutura do README.md  
+> - Orientações para organização do repositório  
 
 
 ---
