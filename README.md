@@ -51,6 +51,23 @@ Criado por **Milena**, estudante de Engenharia de Software na Unigoiás, entusia
 
 ---
 
+## 🤖 Prompts Utilizados com IA
+
+Durante a criação deste projeto, foram utilizados diversos prompts com ferramentas de IA para gerar conteúdo textual e visual.
+
+> Todos os prompts estão disponíveis na pasta [`/prompts`](./prompts)
+
+- 🧠 ChatGPT – para escrita de capítulos e explicações
+- 🎨 Microsoft Bing Image Creator – para geração de imagens e ideias visuais
+- 💡 Exemplos de prompts incluem:
+  - Criação de títulos para capítulos
+  - Exemplos de código HTML explicados
+  - Sugestões visuais para a capa
+  - Frases introdutórias com linguagem acessível
+
+
+---
+
 ## 📢 Aviso
 
 Este material faz parte do desafio final do bootcamp **TONNIE - Java and AI in Europe**, realizado na plataforma [DIO](https://www.dio.me/), como projeto prático integrando HTML, criatividade e Inteligência Artificial.
